@@ -27,8 +27,6 @@ The dataset obtained by Ayşe Hafsa Doğan, Yağız Efe Korkmaz, Assoc. Prof. Be
 edlc-md-charge-data/
 │
 ├── README.md
-├── LICENSE
-├── CITATION.cff
 └── data/
     ├── PS620_DM091_1V.zip
     ├── PS620_DM207_1V.zip
