@@ -2,17 +2,6 @@
 
 
 
-## Overview
-
-This repository contains the molecular-dynamics electrode-charge time-series data used in the master's thesis
-
-> **DATA-DRIVEN FORECASTING OF SUPERCAPACITOR CHARGING PROFILES WITH LSTM APPROACH**
-
-The dataset consists of the electrode-charge trajectories obtained from molecular-dynamics simulations of electrochemical double-layer capacitors (EDLCs) with different pore sizes, solvent dipole moments, and applied potentials.
-
-These trajectories were used for data preprocessing, LSTM training, recursive forecasting, and transmission-line-model (TLM) analysis presented in the thesis.
-
-
 
 # Authors
 
