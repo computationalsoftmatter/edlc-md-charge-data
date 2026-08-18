@@ -80,16 +80,6 @@ corresponds to
 - solvent dipole moment = 2.88 D
 - applied potential = 2 V
 
----
-
-# Purpose
-
-The datasets in this repository were used to
-
-- preprocess molecular-dynamics charge trajectories,
-- train Long Short-Term Memory (LSTM) forecasting models,
-- generate recursive charge predictions,
-- estimate transmission-line-model (TLM) parameters from the predicted charging profiles.
 
 
 
