@@ -7,6 +7,10 @@
 
 The dataset obtained by Ayşe Hafsa Doğan, Yağız Efe Korkmaz, Assoc. Prof. Betül Uralcan Kılavuz.
 
+# Citation
+These data are also used in the following manuscript:
+
+Ayşe Hafsa Doğan. Manuscript in preparation.
 
 ---
 
